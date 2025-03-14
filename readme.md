@@ -1,5 +1,9 @@
 # Laravel World Database
 
+This is a fork of khsing/world (https://github.com/khsing/laravel-world)
+
+It is created to upgrade laravel/framework to version 10 and higher.
+
 This package focused on World Countries, Regions, and Cities database with locale support for Laravel.
 
 ## Conceptions
