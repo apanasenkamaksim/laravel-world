@@ -1,5 +1,5 @@
 {
-    "name": "khsing/world",
+    "name": "apanasenkamaksim/laravel-world",
     "description": "Provide countries, states, and cities relations database.",
     "keywords": [ "world", "country", "city", "region" ],
     "type": "library",
