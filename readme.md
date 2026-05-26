@@ -2,7 +2,7 @@
 
 This is a fork of khsing/world (https://github.com/khsing/laravel-world)
 
-It is created to upgrade laravel/framework to version 10 and higher.
+It is created to support Laravel 9 through 13 on PHP 8.1–8.4 (PHP 8.3+ required for Laravel 13).
 
 This package focused on World Countries, Regions, and Cities database with locale support for Laravel.
 

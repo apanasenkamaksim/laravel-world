@@ -2,6 +2,7 @@
 
 namespace Khsing\World;
 
+use Khsing\World\Models\City;
 use Khsing\World\Models\Continent;
 use Khsing\World\Models\Country;
 use Khsing\World\Models\Division;
